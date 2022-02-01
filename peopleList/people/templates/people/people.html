@@ -1,0 +1,9 @@
+{% extends 'people/base.html' %}
+{% comment %} use base parameters {% endcomment %}
+
+{% block title %}Personnes{% endblock title %}
+
+{% block content %}
+
+<ul>{{people|safe}}</ul> |
+{% endblock content %}

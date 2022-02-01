@@ -1,6 +1,6 @@
 Sujet exercice django 2 :
 
-Créer un modèle Person correspondant au dictionnaire du premier exercice (et ajouter les données dans la table)
+{% comment %} Créer un modèle Person correspondant au dictionnaire du premier exercice (et ajouter les données dans la table) {% endcomment %}
 
 
 Ajouter 3 vues dans votre application (Accueil / index, Liste des personnes / Persons, Détail d'une personne / Person_detail),
@@ -14,4 +14,5 @@ on doit pouvoir cliquer dessus pour aller au détail d'une personne
 Détail d'une personne : Afficher son nom de la couleur correspondant à son sexe
 
 Bonus : associer une photo à chaque personne et l'afficher avec le nom
+
 Note : limiter au maximum le Python dans le code HTML

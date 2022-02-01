@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+}
+
+.name{
+    font-weight: bold;
+    list-style: none;
+}
+
+.Feminin{
+    color : pink;
+}
+
+.Masculin{
+
+    color : blue;
+}
